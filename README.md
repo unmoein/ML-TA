@@ -12,7 +12,7 @@ As TA, I:
 - Graded and gave feedback to students
 
 ## Contents
-
+ 
 | Folder | Topic | Skills Demonstrated |
 |---|---|---|
 | [`assignments/hw1_logistic_regression`](assignments/hw1_logistic_regression) | Logistic Regression, KNN imputation, cross-validation | Model evaluation design, data preprocessing pedagogy |
