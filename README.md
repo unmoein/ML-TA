@@ -24,4 +24,3 @@ As TA, I:
 
 - All assignments, exam questions, and the project specification in this repo were authored by me for this course.
 - Student solutions and identifying student data are not included.
-- Some materials (e.g. midterm) may be shared partially or omitted if reused in future terms — see notes in that folder.
